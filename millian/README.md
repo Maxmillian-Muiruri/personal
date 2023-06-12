@@ -58,3 +58,19 @@ $a = "1";
 };
 echo $result;
 ```
+
+## arrays
+
+```php
+  $food = [
+    "fruits" => array(
+      "apple", "mango", "banana",
+      "cherry",
+    ),
+    "meat" => array("pork", "beef", "marton")
+
+  ];
+
+
+  echo $food["meat"][0];
+```
