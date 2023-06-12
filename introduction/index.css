@@ -1,0 +1,11 @@
+img {
+  width: 100px;
+}
+body {
+  background: linear-gradient(
+    to bottom,
+    rgb(115, 255, 0),
+    rgb(0, 128, 100),
+    rgb(195, 0, 255)
+  );
+}
